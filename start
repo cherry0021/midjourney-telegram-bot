@@ -4,5 +4,4 @@ pip install -r requirements.txt
 
 cp .env.template .env
 python manage.py migrate
-python manage.py runserver
-python manage.py runbot
+
